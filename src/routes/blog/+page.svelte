@@ -2,6 +2,7 @@
 
     import ArticleCard from "$lib/ArticleCard.svelte";
     const blogs = [
+        ["Let's get started with Neovim", "2023-03-19", 4],
         ["Let's write a blog in Rust - Part 3", "2023-03-12", 3],
         ["Let's write a blog in Rust - Part 2", "2023-02-02", 2],
         ["Let's write a blog in Rust - Part 1", "2023-01-27", 1],
