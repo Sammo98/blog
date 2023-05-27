@@ -24,6 +24,8 @@
         margin: 5px auto;
         border-radius: 15px;
         max-width: 500px;
+        width: 350px;
+        height: 200px;
     }
 
     h3 {
