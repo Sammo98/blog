@@ -3,6 +3,7 @@
     import ArticleCard from "$lib/ArticleCard.svelte";
     const blogs = [
 
+        ["Building a Metronome - Part 1", "2023-07-29", 7],
         ["A Rusty Flask", "2023-05-29", 6],
         ["Spring Cleaning with Rust", "2023-05-26", 5],
         ["Down the Neovim Rabbit Hole", "2023-03-19", 4],
